@@ -1,0 +1,12 @@
+name: shiny_palma_remove_taxes
+title: shiny_palma_remove_taxes
+username:
+account: forsythfutures
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 536830
+bundleId: 1664893
+url: https://forsythfutures.shinyapps.io/shiny_palma_remove_taxes/
+when: 1540566048.76367
+asMultiple: FALSE
+asStatic: FALSE

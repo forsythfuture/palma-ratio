@@ -1,0 +1,12 @@
+name: shiny_palma_analysis
+title: shiny_palma_analysis
+username:
+account: forsythfutures
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 590766
+bundleId: 1721796
+url: https://forsythfutures.shinyapps.io/shiny_palma_analysis/
+when: 1543267892.25566
+asMultiple: FALSE
+asStatic: FALSE
